@@ -1,0 +1,97 @@
+aid: zipcar-com
+name: Zipcar
+description: >-
+  Zipcar is a Boston, Massachusetts-based car sharing service operating in
+  more than 500 cities across North America and Europe, including major US
+  metros (Boston, Chicago, Los Angeles, New York, Philadelphia, Portland,
+  San Francisco, Seattle, Washington DC) and Canadian cities (Toronto,
+  Hamilton, the Golden Horseshoe). Members reserve vehicles by the hour or
+  day through the Zipcar mobile app, unlock cars with their phone, and pay
+  per usage with gas, EV charging, standard damage protection insurance,
+  and professional maintenance included. Zipcar serves consumer members,
+  universities (Zipcar for Universities), and businesses (Zipcar for
+  Business) with weekday fleet programs. Zipcar is a wholly-owned
+  subsidiary of Avis Budget Group, Inc. (NASDAQ: CAR), which acquired the
+  company in March 2013 for approximately $500 million. Zipcar exposes a
+  REST-based Partner API at api.zipcar.com/partner-api, documented at
+  owa.zipcar.com/documentation, that returns JSON for Location List and
+  Location Detail resources (vehicles available at a lat/long); access is
+  gated and granted on request via developerportal@zipcar.com — there is
+  no public OpenAPI spec, SDK, or self-service developer signup. Zipcar
+  also operates a public GitHub organization (github.com/Zipcar) hosting
+  internal DevOps tooling (Concourse resources, Ansible helpers, BOSH
+  helpers, monitoring agents) rather than client-facing API artifacts.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Car Sharing
+  - Mobility
+  - Transportation
+  - Vehicle Rental
+  - Fleet
+  - Urban Mobility
+  - Shared Mobility
+  - Partner API
+  - Locations
+  - Avis Budget Group
+url: https://raw.githubusercontent.com/api-evangelist/zipcar-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.zipcar.com
+  - type: HowItWorks
+    url: https://www.zipcar.com/how
+  - type: Pricing
+    url: https://www.zipcar.com/pricing
+  - type: Cities
+    url: https://www.zipcar.com/cities
+  - type: Business
+    url: https://www.zipcar.com/business
+  - type: Universities
+    url: https://www.zipcar.com/universities
+  - type: MemberPortal
+    url: https://my.zipcar.com
+  - type: Support
+    url: https://support.zipcar.com
+  - type: DeveloperPortal
+    url: https://owa.zipcar.com
+  - type: Documentation
+    url: https://owa.zipcar.com/documentation
+  - type: APICatalog
+    url: https://owa.zipcar.com/api-catalog
+  - type: PartnerAPIBaseURL
+    url: https://api.zipcar.com/partner-api
+  - type: DeveloperContact
+    url: mailto:developerportal@zipcar.com
+  - type: GitHub
+    url: https://github.com/Zipcar
+  - type: Blog
+    url: https://www.zipcar.com/ziptopia
+  - type: Press
+    url: https://www.zipcar.com/press
+  - type: Careers
+    url: https://www.zipcar.com/careers
+  - type: ParentCompany
+    url: https://www.avisbudgetgroup.com
+  - type: ParentInvestorRelations
+    url: https://ir.avisbudgetgroup.com
+  - type: Twitter
+    url: https://twitter.com/Zipcar
+  - type: Facebook
+    url: https://www.facebook.com/zipcar
+  - type: Instagram
+    url: https://www.instagram.com/zipcar
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/zipcar
+  - type: YouTube
+    url: https://www.youtube.com/user/Zipcar
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Zipcar
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
