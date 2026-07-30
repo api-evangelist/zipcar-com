@@ -22,9 +22,20 @@ description: >-
   internal DevOps tooling (Concourse resources, Ansible helpers, BOSH
   helpers, monitoring agents) rather than client-facing API artifacts.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/zipcar-com.png
 tags:
   - Car Sharing
   - Mobility
