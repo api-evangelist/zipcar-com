@@ -56,6 +56,17 @@ tags:
   - Urban Mobility
   - Shared Mobility
   - Partner API
+  - Location
+  - Avis Budget Group
+tags_raw:
+  - Car Sharing
+  - Mobility
+  - Transportation
+  - Vehicle Rental
+  - Fleet
+  - Urban Mobility
+  - Shared Mobility
+  - Partner API
   - Locations
   - Avis Budget Group
 url: https://raw.githubusercontent.com/api-evangelist/zipcar-com/refs/heads/main/apis.yml
